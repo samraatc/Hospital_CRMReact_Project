@@ -1,4 +1,4 @@
 login Id and Password
 
-visite : \src\data 
+visite folder : \src\data 
 get the login id and password to access

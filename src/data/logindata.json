@@ -1,0 +1,48 @@
+{
+    "/Reception": [
+      {
+        "name":"abcde",
+        "id": "123",
+        "password": "098"
+      },
+      {
+        "id": "1234",
+        "password": "0987"
+      }
+    ],
+    "/Employee": [
+      {
+        "id": "234",
+        "password": "098"
+      },
+      {
+        "id": "2345",
+        "password": "0987"
+      }
+    ],
+    "/Doctor": [
+      {
+        "Verification_no":"32432423423",
+        "name": "abc",
+        "id": "234",
+        "password": "098"
+      },
+      {
+        "Verification_no":"32432423424",
+        "name": "abcd",
+        "id": "23456",
+        "password": "0987"
+      }
+    ],
+    "/Admin": [
+      {
+        "id": "234",
+        "password": "098"
+      },
+      {
+        "id": "2345",
+        "password": "0987"
+      }
+    ]
+  }
+  

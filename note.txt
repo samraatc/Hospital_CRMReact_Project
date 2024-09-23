@@ -1,4 +1,4 @@
 login Id and Password
 
-visite : Carekloud_ v-1.0\src\data 
+visite : Carekloud\src\data 
 get the login id and password to access
